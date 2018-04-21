@@ -1,0 +1,15 @@
+html, body {
+  background-color: #42A5F5;
+  height: 100%;
+  width: 100%;
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid {
+  margin-right: 0px;
+  margin-left: 0px;
+}
